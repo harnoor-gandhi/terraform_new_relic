@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"module1","Source":"./child_module/browser_monitor","Dir":"child_module/Browser_monitor"},{"Key":"module2","Source":"./child_module/api_monitor","Dir":"child_module/api_monitor"}]}
